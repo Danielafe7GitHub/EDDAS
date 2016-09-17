@@ -3,5 +3,7 @@ pasos habituales
 Importantisimo 
 crear una carpeta para cada repositorio
 Remoto
+Verificar que se esta en el repositorio correcto con
+remote -v
 Mantener el repositorio Local actualizado con pull origin master
 Asi no habra conflicto 
